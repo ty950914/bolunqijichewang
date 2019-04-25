@@ -1,0 +1,46 @@
+@charset "UTF-8";
+body, p, dl, dd, ul, ol, li, div, h1, h2, h3, h4, h5, h6, form, input, table, tr, td {
+  margin: 0;
+  padding: 0; }
+
+body {
+  font-family: "微软雅黑",Arial; }
+
+ul, ol {
+  list-style: none; }
+
+img {
+  border: 0; }
+
+a {
+  text-decoration: none; 
+}
+.shoppingCar{
+    width: 100%;
+    height: 1580px;
+}
+.arctie{
+    margin: 70px 50px 0;
+}
+.arctie h3{
+    float: left;
+    font-size: 28px;
+    color: #1d1d1d;
+}
+.arctie p{
+    float: right;
+    font-size: 20px;
+    color: #1d1d1d;
+    margin-top: 8px;
+}
+.arctie2{
+  width: 100%;
+  height: 100%;
+}
+.arctie2Shang{
+  width:1280px ;
+  height: 50px;
+  background: #7c7c7c;
+  float: left;
+  
+}
